@@ -18,7 +18,7 @@ int main() {
     }
 
     if(palindromo)
-        printf("\nEs un palindromo\n");
+        printf("\nEs un palindromo");
     else
-        printf("\nNo es un palindromo\n");
+        printf("\nNo es un palindromo");
 }
